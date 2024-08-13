@@ -2,23 +2,24 @@
 
 * [Welcome](README.md)
 
-## Active Directory
+## Active Directory 🪟
+* [Active Directory](/active_directory/ad.md)
   * [Test1](/active_directory/test1.md)
   * [Test2](/active_directory/test2.md)
 
-## Web
+## Web 🌐
 
-* [web](/active_directory/web.md)
+* [Web](/active_directory/web.md)
   * [Test1](/web/test1.md)
   * [Test2](/web/test2.md)
 
-## Wireless
+## Wireless 🛜
 
-* [wireless](/wireless/web.md)
+* [Wireless](/wireless/web.md)
   * [Test1](/wireless/test1.md)
   * [Test2](/wireless/test2.md)
 
-## Walkthrough
+## Walkthrough 🎮
  
 * [Hack The Box](/htb/htb.md)
   * [Test1](/htb/test1.md)
