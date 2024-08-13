@@ -1,3 +1,9 @@
 # Table of contents
 
-* [🙂 notes](README.md)
+* [Welcome](README.md)
+
+## Active Directory
+
+* [recon](/ad/recon.md)
+  * [dns](/ad/recon/dns.md)
+  * [dhcp](/ad/recon/dhcp.md)
