@@ -3,8 +3,6 @@
 * [Welcome](README.md)
 
 ## Active Directory
-
-* [active_directory](/active_directory/ad.md)
   * [Test1](/active_directory/test1.md)
   * [Test2](/active_directory/test2.md)
 
