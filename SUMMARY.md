@@ -16,7 +16,7 @@
 
 ## Wireless
 
-* [web](/wireless/web.md)
+* [wireless](/wireless/web.md)
   * [Test1](/wireless/test1.md)
   * [Test2](/wireless/test2.md)
 
