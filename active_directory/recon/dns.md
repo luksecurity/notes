@@ -1,1 +1,1 @@
-## Page DHCP test
+## Page DNS test
